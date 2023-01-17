@@ -11,7 +11,7 @@
 1. Clone the repository
 2. create a new virtual environment to install all python dependencies
     
-    `$ cd CS_4326_5326_PROJECT`   
+    `$ navigate to containing folder`   
     `$ python3 -m venv venv`  
     `$ source venv/bin/activate`   
     `$ pip install django`
@@ -41,7 +41,7 @@
 
 2. create a new virtual environment to install all python dependencies
     
-    `cd CS_4326_5326_PROJECT`   
+    `navigate to containing folder`   
     `virtualenv env`  
     `.\env\Scripts\activate`   
     `pip install django`
